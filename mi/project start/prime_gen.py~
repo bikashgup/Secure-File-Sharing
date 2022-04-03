@@ -1,0 +1,14 @@
+import sys,os
+import fast_exponentiaton
+
+def isprime(prime):
+
+    rand = int.from_bytes(os.urandom(128),byteorder="little")
+    while (rand<prime):
+        rand = int.from_bytes(os.urandom(128),byteorder="little")
+    if (f_expo(rand,prime-1,prime)==1):
+        bool=true
+    return bool
+    
+        
+    

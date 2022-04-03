@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/3G/%5BDDR%5D%203G%20-%2001%20-%20Kaise%20Bataaoon.mp3</location>
+			<title>Kaise Bataaoon</title>
+			<creator>K.K. &amp; Sonal Chauhan</creator>
+			<album>3G</album>
+			<trackNum>1</trackNum>
+			<annotation>DDR ~ When Quality Matters!!</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/K.K.%20%26%20Sonal%20Chauhan/3G/art</image>
+			<duration>282597</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/4Wazir%20(2016)/01%20-%20Tere%20Bin.mp3</location>
+			<title>Tere Bin -  DownloadMing.SE</title>
+			<creator>Sonu Nigam &amp; Shreya Ghoshal</creator>
+			<album>Wazir (2016)</album>
+			<trackNum>1</trackNum>
+			<annotation>DownloadMing.SE</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Sonu%20Nigam%20%26%20Shreya%20Ghoshal/Wazir%20%282016%29/art</image>
+			<duration>245221</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/8tamasha/03%20-%20Tamasha%20-%20Tum%20Saath%20Ho%20%5BSongspk.LINK%5D.mp3</location>
+			<title>Tum Saath Ho - Songspk.LINK</title>
+			<creator>Alka Yagnik &amp; Arijit Singh</creator>
+			<album>Tamasha (2015)</album>
+			<trackNum>3</trackNum>
+			<annotation>Songspk.LINK</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Alka%20Yagnik%20%26%20Arijit%20Singh/Tamasha%20%282015%29/art.jpg</image>
+			<duration>341218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Ajab%20Prem%20Ki%20Gazab%20Kahani/Kaise%20bataye.MP3</location>
+			<title>Tu Jaane Na - www.Songs.PK</title>
+			<creator>Atif Aslam</creator>
+			<album>Ajab Prem Ki Ghazab Kahani</album>
+			<trackNum>2</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Atif%20Aslam/Ajab%20Prem%20Ki%20Ghazab%20Kahani/art</image>
+			<duration>342002</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Ajab%20Prem%20Ki%20Gazab%20Kahani/Aa%20Jao%20Meri%20Tamana.mp3</location>
+			<title>Aa Jao Meri Tamanna - www.Songs.PK</title>
+			<creator>Javed Ali &amp; Jojo</creator>
+			<album>Ajab Prem Ki Ghazab Kahani</album>
+			<trackNum>6</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Javed%20Ali%20%26%20Jojo/Ajab%20Prem%20Ki%20Ghazab%20Kahani/art</image>
+			<duration>245899</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Anjaana%20Anjaani/03%20-%20Aas%20Paas%20Khuda.mp3</location>
+			<title>Aas Paas Khuda - www.Songs.PK</title>
+			<creator>Rahat Fateh Ali Khan</creator>
+			<album>Anjaana Anjaani</album>
+			<trackNum>3</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Rahat%20Fateh%20Ali%20Khan/Anjaana%20Anjaani/art</image>
+			<duration>321290</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Baaghi-2016-320Kbps(Songspk.LINK)/01%20-%20Sab%20Tera%20%5BSongspk.LINK%5D.mp3</location>
+			<title>Sab Tera - Songspk.LINK</title>
+			<creator>Armaan Malik, Shraddha Kapoor , Amaal Mallik</creator>
+			<album>Baaghi (2016)</album>
+			<trackNum>1</trackNum>
+			<annotation>Songspk.LINK</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Armaan%20Malik%2C%20Shraddha%20Kapoor%20%2C%20Amaal%20Mallik/Baaghi%20%282016%29/art</image>
+			<duration>228182</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Barfi/02%20-%20Barfi%20-%20Main%20Kya%20Karoon%20%5Bwww.ictorrent.Com%5D.mp3</location>
+			<title>Barfi - Main Kya Karoon [www.</title>
+			<creator>02</creator>
+			<annotation>                              </annotation>
+			<duration>270371</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Barfi/07%20-%20Barfi%20-%20Ala%20Barfi!%20(Version%202)%20%5Bwww.ictorrent.Com%5D.mp3</location>
+			<title>Barfi - Ala Barfi! (Version 2</title>
+			<creator>07</creator>
+			<duration>341503</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Boss/07%20-%20Har%20Kisi%20Ko.mp3</location>
+			<title>Har Kisi Ko</title>
+			<creator>Neeti Muhan,Arjith Singh</creator>
+			<album>Boss [2013]</album>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Neeti%20Muhan%2CArjith%20Singh/Boss%20%5B2013%5D/art.jpg</image>
+			<duration>341079</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Bodyguard/11%20-%20I%20Love%20You%20(Unplugged).mp3</location>
+			<title>I Love You (Unplugged) - ExD$R</title>
+			<creator>Shaan &amp; Clinton Cerejo</creator>
+			<album>Bodyguard (2011)</album>
+			<trackNum>11</trackNum>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Shaan%20%26%20Clinton%20Cerejo/Bodyguard%20%282011%29/art.jpg</image>
+			<duration>251642</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Coke-Studio-MTV-Vol-2%20(%20pop%20)/%5BSongs.PK%5D%20Coke%20Studio%20@%20MTV%20-%2003%20-%20Tu%20Mane%20Ya%20Na%20Mane.mp3</location>
+			<title>Tu Mane Ya Na Mane - www.Songs.PK</title>
+			<creator>Wadali Brothers</creator>
+			<album>Coke Studio @ MTV Vol.1</album>
+			<trackNum>3</trackNum>
+			<annotation>xDR: A Healthy Dose of Entertainment!</annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Wadali%20Brothers/Coke%20Studio%20%40%20MTV%20Vol.1/art</image>
+			<duration>564903</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Ek%20Thi%20Daayan/Yaaram.mp3</location>
+			<title>Yaaram</title>
+			<creator>Sunidhi Chauhan , Clinton Cerejo</creator>
+			<album>Ek Thi Daayan</album>
+			<trackNum>1</trackNum>
+			<image>file:///run/media/bikash/SM/Bollywood/Ek%20Thi%20Daayan/Folder.jpg</image>
+			<duration>293986</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Jab%20We%20Met/Tum%20Se%20Hi.mp3</location>
+			<title>Tum Se Hi</title>
+			<creator>Mohit Chouhan</creator>
+			<album>Jab We Met  @ Fmw11.com</album>
+			<trackNum>2</trackNum>
+			<annotation>Fmw11.com</annotation>
+			<duration>323316</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/jaane%20tu%20ya%20jaane%20na/03%20-%20Jaane%20Tu%20Mera%20Kya%20Hai%20(Aditi)%20-%20Runa%20Rizvi%20@%20Fmw11.com.mp3</location>
+			<title>Jaane Tu Mera Kya Hai (Aditi)</title>
+			<creator>Runa Rizvi</creator>
+			<album>Jaane Tu Ya Jaane Na @ Fmw11.com</album>
+			<trackNum>3</trackNum>
+			<annotation>Fmw11.com</annotation>
+			<duration>221177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Murder%202/04%20-%20Phir%20Mohabbat.mp3</location>
+			<title>04 Phir Mohabbat  - DownloadMing.Com</title>
+			<creator>Mohd Irfan, Arijit &amp; Saim Bhat</creator>
+			<album>Murder 2 (2011)</album>
+			<trackNum>4</trackNum>
+			<annotation>DownloadMing.Com</annotation>
+			<duration>332000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///run/media/bikash/SM/Bollywood/Murder%202/Hale%20Dil.mp3</location>
+			<title>Hale Dil</title>
+			<creator>Murder 2</creator>
+			<album>Murder 2</album>
+			<annotation>                              </annotation>
+			<image>file:///home/bikash/.cache/vlc/art/artistalbum/Murder%202/Murder%202/art.jpg</image>
+			<duration>348689</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+	</extension>
+</playlist>
